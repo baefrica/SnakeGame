@@ -6,4 +6,4 @@
 - 먹이 등장 : 랜덤으로 등장
 - 게임 종료 조건 : 뱀이 이동하면서 자신의 몸에 부딪치거나 벽에 부딪쳤을 경우
 
-https://user-images.githubusercontent.com/108685557/209839114-43acefdc-047a-44ec-a584-8acad51753b7.mp4
+https://user-images.githubusercontent.com/108685557/209839557-7b6276a0-d6cf-44af-881e-a5d1a25322b1.mp4
